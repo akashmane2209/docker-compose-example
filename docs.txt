@@ -1,0 +1,9 @@
+Commands
+docker-compose up
+docker-compose up --build
+
+docker-compose down
+
+docker-compose ps (executed inside project dir)
+restart values : "no",always,on-failure,unless-stopped
+https://docs.docker.com/config/containers/start-containers-automatically/
